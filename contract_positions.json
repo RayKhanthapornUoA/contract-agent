@@ -1,0 +1,191 @@
+[
+  {
+    "clause_topic": "Insurance - Location of Project Delivery",
+    "green": "Project is delivered in New Zealand wherever possible. Note: the Clinical Trials insurance policy only covers trials undertaken in New Zealand; additional insurance for overseas trials must be priced before the contract.",
+    "amber": "Delivery in Australia, the United Kingdom, or the Pacific Region is acceptable where the contract is under New Zealand law.",
+    "red": "Delivery outside New Zealand, Australia, the United Kingdom, or the Pacific Region without Risk Office sign-off, or an overseas clinical trial component without additional insurance priced before the contract.",
+    "escalation_route": "Risk Office (to assess whether additional insurances are required); once confirmed, execute per the Research Contracts Delegation Schedule.",
+    "explanation_hint": "Project should be delivered in NZ; AU/UK/Pacific acceptable under NZ law; anywhere else needs Risk Office sign-off.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 1 (CM Guidelines; Proposal and Contract Escalation Criteria for Insurance)"
+  },
+  {
+    "clause_topic": "Insurance - Clinical Trials",
+    "green": "All industry-led sponsored clinical trials have an Indemnity and Compensation Agreement executed alongside the CTRA, using the standardised NZACRes indemnity (nzacres.org.nz/standardised-indemnity).",
+    "amber": "Industry-led sponsored clinical trial proceeds with the required Indemnity and Compensation Agreement in place but with trial-specific circumstances that warrant confirmation.",
+    "red": "Industry-led sponsored clinical trial without the required Indemnity and Compensation Agreement, or a trial involving children under 5, pregnant people, or an offshore delivery component that has not been escalated to the Risk Office.",
+    "escalation_route": "Risk Office (for trials involving children under 5 and/or pregnant people, and for any offshore delivery component).",
+    "explanation_hint": "Industry-led clinical trials need an Indemnity and Compensation Agreement alongside the CTRA; vulnerable-population or offshore trials escalate to Risk.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 2"
+  },
+  {
+    "clause_topic": "Clinical Trial Template",
+    "green": "Uses the NZACRes contract template incorporating Schedule 6 modifications, with an upfront set-up fee in the payment schedule covering staff recruitment and site costs, payable irrespective of whether recruitment targets are met.",
+    "amber": "A non-NZACRes template is used, provided the key Schedule 6 modifications are incorporated into the relevant CTRA.",
+    "red": "Template omits key Schedule 6 modifications, or has no upfront set-up fee covering recruitment and site costs.",
+    "escalation_route": "Senior Manager, Research Grants and Contracts (for key Schedule 6 terms that cannot be incorporated).",
+    "explanation_hint": "Prefer the NZACRes template with Schedule 6 modifications and an upfront set-up fee; non-NZACRes acceptable if Schedule 6 is incorporated.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 3 (Clinical Trial Training Material)"
+  },
+  {
+    "clause_topic": "Foreign Currency",
+    "green": "Payment is made in NZD.",
+    "amber": "Payment in a foreign currency under NZD $500,000 from a country with an FX rate listed by FIRST is acceptable.",
+    "red": "Payment in a foreign currency of NZD $500,000 or more, or in a currency without a listed FX rate, that has not been approved by UoA Treasury.",
+    "escalation_route": "UoA Treasury, with FIRST responsible for obtaining the approval.",
+    "explanation_hint": "Prefer NZD; foreign currency under NZD $500k with a listed FX rate is acceptable; otherwise Treasury approval is required.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 4 (FX Policy)"
+  },
+  {
+    "clause_topic": "Billing Schedule for International Contracts / Domestic Commercial",
+    "green": "For an international client, or a domestic client engaged for commercial activity, an upfront payment on execution is required.",
+    "amber": "International clients with an offshore delivery component require an upfront payment; other international-partner contracts, subject to credit-risk assessment, may proceed under standard University payment terms.",
+    "red": "Non-standard billing schedule for an international contract that has not been approved.",
+    "escalation_route": "Credit and Collections Manager at STC (for non-standard international billing schedules).",
+    "explanation_hint": "International/commercial clients pay upfront on execution; non-standard schedules escalate to Credit and Collections.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 5"
+  },
+  {
+    "clause_topic": "Taxation",
+    "green": "NZ contracts present costs as 'excluding GST'; overseas contracts present costs as 'excluding any applicable taxes and duties, which are payable by the Client on any taxable supplies'.",
+    "amber": "An offshore client requires offshore tax to be incorporated (with specific reference in the agreement); this is included in the Contract Fee and escalated to Tax and Compliance for advice.",
+    "red": "The University absorbs offshore taxes/duties, or costs are not presented on a tax-exclusive basis, without Tax and Compliance advice.",
+    "escalation_route": "Tax and Compliance team.",
+    "explanation_hint": "Costs presented tax-exclusive (GST for NZ, taxes/duties for overseas); offshore tax requirements escalate to Tax and Compliance.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 6 (GST Flowchart)"
+  },
+  {
+    "clause_topic": "Liability Limitations and Exclusions",
+    "green": "Total liability (including under indemnities) is capped at the lesser of (a) the amount paid under the contract to date or the contract value (subject to the Research Contract Delegations limit), or (b) NZD $500,000. Liability is limited to direct losses from damage/injury caused by the University's negligent acts/omissions or wilful misconduct. Consequential and indirect losses of all kinds, and any 'hold client harmless', are explicitly excluded, as is liability for loss of data, profit, revenue, savings, business, and goodwill.",
+    "amber": "The total liability limit (including indemnities) is in line with the Research Contract Delegations. Uncapped liability is acceptable only for Trusted Funders from contestable funding rounds. For Trusted Funders not from contestable rounds, the cap is referred to the Portfolio Manager. Indirect losses are acceptable only if included within the capped total exposure. Carve-outs from the monetary cap are acceptable for fraud, wilful default, personal injury/death, liabilities that cannot be excluded by law, and confidentiality obligations (unless the client is a commercial entity with annual revenue of NZD $150m or more).",
+    "red": "Uncapped liability for a non-Trusted-Funder, a cap above the Research Contract Delegations limit, agreement to 'hold the client harmless', or unexcluded consequential/indirect losses.",
+    "escalation_route": "Refer to the Research Grants and Contracts Delegations; refer the cap to the Portfolio Manager for non-contestable Trusted Funder awards.",
+    "explanation_hint": "Liability capped at the lesser of contract value or NZD $500k, limited to direct losses from University negligence; indirect losses and 'hold harmless' excluded.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 7"
+  },
+  {
+    "clause_topic": "Indemnities",
+    "green": "No indemnities are offered, except to Trusted Funders (where uncapped liability under item 7 applies and indemnities are deemed accepted). For non-contestable Trusted Funder awards, indemnities are offered only where: (1) the University indemnifies the funder for damage/injury from the University's negligence or wilful misconduct; (2) any indemnity liability is included within the Liability Limit; and (3) the indemnity includes proportionate reduction for the funder's contributory negligence and mutual obligations to mitigate. No indemnities against IP infringement.",
+    "amber": "The University indemnifies the client only for damage/injury from the University's negligent acts/omissions or wilful misconduct, with any indemnity liability included within the Liability Limit, proportionate reduction for the client's contributory negligence, and obligations to mitigate. No IP-infringement indemnities, except where a project is funded by a Trusted Funder through a contestable award (then third-party IP infringement provisions are allowed). Acceptable indemnity limits are included in the total liability exposure per the Delegations.",
+    "red": "Indemnities that are uncapped or exceed the Liability Limit, indemnities against IP infringement outside the permitted Trusted-Funder contestable case, or indemnities for losses not caused by the University's negligence or wilful misconduct.",
+    "escalation_route": "Refer to the Research Contract Delegations.",
+    "explanation_hint": "No indemnities except limited ones to Trusted Funders / clients for the University's own negligence, always within the Liability Limit; no IP-infringement indemnities (narrow Trusted-Funder exception).",
+    "reference_doc": "Contracting Positions Protocol 2024, item 8"
+  },
+  {
+    "clause_topic": "Insurance Policies",
+    "green": "The contract states the University will maintain sufficient insurance cover to conduct the work and does not refer to explicit policy limits.",
+    "amber": "A specific insurance limit is requested in the contract that is below or equal to the University's current policy limits.",
+    "red": "A requested insurance limit exceeds the University's current policy limits and has not been confirmed with the Risk Office.",
+    "escalation_route": "Risk Office (escalation only required for limits outside those in policy copies already provided to the RGC team).",
+    "explanation_hint": "Prefer a general 'sufficient cover' statement with no explicit limits; requested limits at or below current policy are acceptable, above requires Risk.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 9 (CM Guidelines; Insurance certificates)"
+  },
+  {
+    "clause_topic": "Warranties",
+    "green": "The University warrants only that it has authority to enter the contract and that performance will be to a professional standard in line with usual good practice, and the contract expressly excludes all other warranties (noting this exclusion may not be negotiable in NZ and international funding agency contracts).",
+    "amber": "No warranties other than the standard authority/professional-standard warranties are offered.",
+    "red": "The University gives additional or open-ended warranties beyond authority and professional standard, without the express exclusion of other warranties.",
+    "escalation_route": "Senior Manager, Research Grants and Contracts.",
+    "explanation_hint": "University warrants only authority and professional standard, and excludes all other warranties.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 10 (CM Guidelines)"
+  },
+  {
+    "clause_topic": "Confidentiality",
+    "green": "Confidential information is defined to exclude information that is already public, independently developed, previously known to the receiving party, or subject to a legal obligation to disclose. The University can disclose confidential information to its agents and Affiliates. Duration of confidentiality may extend up to 5 years post completion of the confidentiality period.",
+    "amber": "Confidentiality obligations are limited in time rather than perpetual (e.g. 5-7 years post termination/expiry/disclosure to the recipient).",
+    "red": "Perpetual confidentiality obligations, no standard exclusions from the definition, or no right for the University to disclose to its agents and Affiliates.",
+    "escalation_route": "Senior Manager, Research Grants and Contracts.",
+    "explanation_hint": "Standard exclusions from the definition, disclosure to agents/Affiliates permitted, and a limited duration (around 5-7 years, not perpetual).",
+    "reference_doc": "Contracting Positions Protocol 2024, item 11 (Confidentiality Agreement; Contracts Checklist)"
+  },
+  {
+    "clause_topic": "Publication",
+    "green": "The Principal Investigator has the right to publish the research and results after a reasonable opportunity for the Client to patent/protect (no more than 60 days from the request). Any students involved retain publication rights for their thesis or other academic publication, including commercially sensitive information/materials.",
+    "amber": "A pre-publication stand-down is acceptable if it does not exceed 12 months; student commercially sensitive material may be embargoed for up to 12 months. For consulting contracts only, a PI may approve removal of the publication clause where the academic needs no right to use results or publish, no new knowledge is expected, and no students rely on the research for a thesis/dissertation.",
+    "red": "A pre-publication stand-down or embargo exceeding 12 months, removal of the PI's right to publish, a patent/protection window longer than 60 days, or removal of student thesis publication rights.",
+    "escalation_route": "Senior Manager, Research Grants and Contracts; embargoes longer than 12 months require School of Graduate Studies approval.",
+    "explanation_hint": "PI keeps the right to publish (max 60-day patent window); students keep thesis rights; stand-down/embargo capped at 12 months.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 12 (UoA Postgraduate Thesis Embargo Guidelines; Education and Training Act 2020 s267)"
+  },
+  {
+    "clause_topic": "Moral Rights",
+    "green": "The 'author' (per the Copyright Act 1994) retains authorship and copyright and does not waive moral rights for any thesis or academic publication.",
+    "amber": "No separate acceptable position is stated; any waiver must follow the escalation route below.",
+    "red": "The contract waives the author's moral rights or copyright for a thesis or academic publication, or includes a broad waiver beyond the scope of the contracted work.",
+    "escalation_route": "Principal Investigator (academic/student); first consult the Head of IP at UniServices. Rights may only be waived by the person entitled, after thorough discussion, and any waiver must be limited to work produced within the scope of the contract.",
+    "explanation_hint": "Authors retain copyright and moral rights for theses/academic publications; waivers only by the entitled person, limited to contract scope.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 13 (CM Guidelines)"
+  },
+  {
+    "clause_topic": "Publicity",
+    "green": "Neither party may use the other party's (or its personnel's) names or brands without prior written consent.",
+    "amber": "No separate acceptable position is stated; deviations follow the escalation route below.",
+    "red": "A party may use the other's name, brand, or personnel's name without prior written consent.",
+    "escalation_route": "University Marketing (brand@auckland.ac.nz).",
+    "explanation_hint": "No use of the other party's name/brand without prior written consent.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 14 (CM Guidelines)"
+  },
+  {
+    "clause_topic": "Payment Terms",
+    "green": "Payment is due on the 20th day of the month following the date of invoice.",
+    "amber": "No separate acceptable position is stated; non-standard payment terms follow the escalation route below.",
+    "red": "Payment terms materially different from the 20th of the month following invoice (e.g. payment on much longer terms or contingent on third-party funding) without approval.",
+    "escalation_route": "Credit and Collections Manager at STC.",
+    "explanation_hint": "Payment due on the 20th of the month following the invoice date.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 15 (CM Guidelines)"
+  },
+  {
+    "clause_topic": "Governing Law and Jurisdiction",
+    "green": "Governing law and jurisdiction is New Zealand.",
+    "amber": "Australia, the United Kingdom, common European countries, or Singapore are acceptable; where the client is based in the USA, non-exclusive jurisdiction of a specific US state is acceptable.",
+    "red": "Governing law/jurisdiction outside New Zealand and the acceptable jurisdictions listed, or no governing law clause at all.",
+    "escalation_route": "General Counsel.",
+    "explanation_hint": "Prefer NZ law; AU/UK/common European/Singapore (and non-exclusive US-state jurisdiction for US clients) acceptable; otherwise escalate to General Counsel.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 16 (CM Guidelines; Proposal and Contracts Escalation Points for Insurance)"
+  },
+  {
+    "clause_topic": "Language",
+    "green": "The English version of the contract prevails.",
+    "amber": "No separate acceptable position is stated; deviations follow the escalation route below.",
+    "red": "A non-English version of the contract prevails, or no prevailing-language clause is included where one is needed.",
+    "escalation_route": "Senior Manager, Research Grants and Contracts.",
+    "explanation_hint": "The English version of the contract prevails.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 17"
+  },
+  {
+    "clause_topic": "Dispute Resolution",
+    "green": "The parties must discuss any dispute in good faith before arbitration or litigation, with escalation to senior management followed by mediation included beforehand. All dispute resolution is conducted in English, and the process must not prevent a party from taking urgent interlocutory action through the courts.",
+    "amber": "The standard process cannot be altered because it is a NZ or international funding agency contract (in which case escalation is not required).",
+    "red": "No good-faith/escalation/mediation step before arbitration or litigation, dispute resolution not conducted in English, or a clause preventing urgent interlocutory court action.",
+    "escalation_route": "Senior Manager, Research Grants and Contracts / General Counsel (or the Designated Legal Advisor in General Counsel's absence).",
+    "explanation_hint": "Good-faith discussion, senior-management escalation and mediation before arbitration/litigation; English; urgent court action preserved.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 18 (CM Guidelines)"
+  },
+  {
+    "clause_topic": "Termination",
+    "green": "Mutual two-way termination for material breach or insolvency, with a clear University right to terminate for the Client's failure to pay. Accrued rights and benefits are not affected by termination, and the Client pays termination costs including any uncancellable obligations.",
+    "amber": "For consulting contracts only, termination for convenience is acceptable provided there is a reasonable notice period, the PI agrees, and the Client pays termination costs including uncancellable obligations. Where termination provisions cannot be altered (NZ or international funding agency contracts), the CA/CM escalates to the Portfolio Manager.",
+    "red": "One-sided termination rights, no University right to terminate for non-payment, termination for convenience outside consulting contracts, or no payment of termination/uncancellable costs.",
+    "escalation_route": "Senior Manager, Research Grants and Contracts; escalate to the Portfolio Manager where funding agency provisions cannot be altered.",
+    "explanation_hint": "Mutual termination for breach/insolvency, University can terminate for non-payment, Client covers termination costs; termination-for-convenience only for consulting.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 19 (CM Guidelines)"
+  },
+  {
+    "clause_topic": "No Disrepute Clauses",
+    "green": "The contract does not include clauses preventing University academic staff or students from saying or doing anything that would bring the client into 'disrepute'.",
+    "amber": "A disrepute-style clause is acceptable only if it includes the wording: 'Nothing in this Agreement will limit the rights of the University's personnel to exercise the academic freedoms enshrined in s267 of the Education and Training Act 2020 (NZ).' (Note: these academic freedoms are enshrined in legislation and cannot be contracted out of in any case.)",
+    "red": "A disrepute clause that restricts academic staff or students without the protective academic-freedom wording.",
+    "escalation_route": "Senior Manager, Research Grants and Contracts.",
+    "explanation_hint": "Reject 'disrepute' clauses unless they preserve academic freedom under s267 of the Education and Training Act 2020.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 20 (Education and Training Act 2020 s267)"
+  },
+  {
+    "clause_topic": "Variations and Extensions",
+    "green": "All variations are negotiated and executed in writing before the current Agreement expires, in accordance with any applicable funder guidelines.",
+    "amber": "Extensions are negotiated and executed in writing only after the current Agreement has expired, and may cover changes beyond just the end date.",
+    "red": "Variations or extensions made without a written, executed agreement, or made contrary to applicable funder guidelines.",
+    "escalation_route": "Per CM Guidelines / Research Grants and Contracts.",
+    "explanation_hint": "Variations in writing before expiry; extensions in writing only after expiry; both follow funder guidelines.",
+    "reference_doc": "Contracting Positions Protocol 2024, item 21 (CM Guidelines)"
+  }
+]
