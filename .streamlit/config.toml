@@ -1,0 +1,6 @@
+# Disable Streamlit's usage-statistics telemetry (Responsible-AI / confidentiality).
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
